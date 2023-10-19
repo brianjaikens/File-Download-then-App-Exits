@@ -1,6 +1,6 @@
 # Example of a basic .Net 7 Web App that downloads a test file and then exits abruptly
 
-This isn't a total newbix question. I've been developing app in .Net for many many years.
+This isn't a total newbie question. I've been developing in .Net for many many years.
 
 But I was trying to get a better way of downloading files to the user from an application I was developing without using Javascript and just use what .Net 7 and Razor pages provided.
 Yes it works very well when you provide a simple form and a submit button inside it. The browser asks what do you want to call this file and where would you like it.
