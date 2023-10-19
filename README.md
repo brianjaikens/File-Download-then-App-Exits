@@ -12,4 +12,4 @@ Does anybody have ideas on why this is happening?
 
 Problem solved!
 
-So I have managed to answer my own question. The problem was the browser. I recently switched to Brave. When I specify another browser (Chrome, Duck Duck Go, Firefox) almost anything except Brave. It works just as it should. So the problem was the way that Brave and Visual Studio 2022 talk to each other. They are not good. So I'm qoing to stick to developing on Chrome. Phew!
+So I have managed to answer my own question. The problem was the browser. I recently switched to Brave. When I specify another browser (Chrome, Duck Duck Go, Firefox) almost anything except Brave. It works just as it should. So the problem was the way that Brave and Visual Studio 2022 talk to each other. They are not good together. So I'm going to stick to developing on Chrome. Phew!
